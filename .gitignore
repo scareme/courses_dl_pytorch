@@ -7,3 +7,4 @@ Cat_Dog_data
 *.pth
 *.pt
 02_convolutional-neural-networks/03_cifar-cnn/model_cifar.pt
+04_recurrent-neural-networks/02_char-rnn/rnn_x_epoch.net
